@@ -34,7 +34,7 @@
 }
 
 .rooms {
-  background-color: #2F3E51;
+  background-color: #2f3e51;
   height: calc(100vh - 100px);
   padding: o 20px;
   overflow: scroll;
@@ -117,7 +117,7 @@
 .form {
   background-color: #DDDDDD;
   height: 90px;
-  padding:  20px 40px;
+  padding: 20px 40px;
   display: flex;
 }
 
